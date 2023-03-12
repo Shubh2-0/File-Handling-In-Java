@@ -1,0 +1,8 @@
+In Java, with the help of File Class, we can work with files. 
+This File Class is inside the java.io package. 
+The File class can be used by creating an object of the class and then specifying the name of the file.
+
+Why File Handling is Required?
+File Handling is an integral part of any programming language as file handling enables us to store the output of 
+any particular program in a file and allows us to perform certain operations on it.
+In simple words, file handling means reading and writing data to a file.
