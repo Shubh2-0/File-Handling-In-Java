@@ -21,12 +21,15 @@ public class FileWriting {
 		FileWriter fw = new FileWriter(file); */
 		
 		
-		FileWriter fw = new FileWriter(file,true);
 		
-		fw.write("\n\nJAVA IS THE WORLD BEST LANGUAGE");
-	
+		FileWriter fw = new FileWriter("info.txt",true);
+		
+		fw.write("\nJAVA IS EASY TO LEARN");
 		
 		fw.close();
+		
+
+		
 		
 		System.out.println("\nPLEASE WAIT YOUR DATA IS WRITING......");
 		Thread.sleep(3000);
