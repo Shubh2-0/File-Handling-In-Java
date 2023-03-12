@@ -1,0 +1,7 @@
+Name : Shivansh    Age : 21    City : Banglore    Marks : 540.1
+Name : Pankaj    Age : 24    City : Mumbai    Marks : 281.92
+Name : Ram    Age : 23    City : Indore    Marks : 310.41
+Name : Lakshman    Age : 26    City : Jaipur    Marks : 290.3
+Name : Karn    Age : 19    City : Mizapur    Marks : 90.84
+Name : Deva    Age : 31    City : Kanpur    Marks : 121.12
+Name : Ipra    Age : 29    City : Kolkata    Marks : 292.2
