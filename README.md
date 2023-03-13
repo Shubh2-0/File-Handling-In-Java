@@ -2,8 +2,9 @@
 
 File handling is a critical aspect of any programming language.
 
-File handling refers to manipulating files and directories on the file system. This article will provide an overview of file handling in Java.
+<img src="https://user-images.githubusercontent.com/112773220/224777158-8cae1ff0-2d27-4875-9a49-01bd963b28e1.png" />
 
+File handling refers to manipulating files and directories on the file system. This article will provide an overview of file handling in Java.
 ```
 java.io.File Class
 ```
