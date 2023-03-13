@@ -9,6 +9,6 @@ java.io.File Class
 ```
 The File class in Java is the primary way to handle files and directories. It is part of the java.io package, which is used for input and output operations.
 
-**The File class has two constructors:**
+**The File class has two constructors:**\n
 1️⃣ One that takes a String representing the file path\
 2️⃣ Another File object representing the file path
