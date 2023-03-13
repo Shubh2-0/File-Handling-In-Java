@@ -8,6 +8,9 @@ File handling refers to manipulating files and directories on the file system. T
 ```
 java.io.File Class
 ```
+
+<img src="https://user-images.githubusercontent.com/112773220/224777525-f2703db5-93e4-4582-b631-e67cd730867e.png"/>
+
 The File class in Java is the primary way to handle files and directories. It is part of the java.io package, which is used for input and output operations.
 
 **The File class has two constructors:**\
