@@ -14,7 +14,7 @@ The File class in Java is the primary way to handle files and directories. It is
 2️⃣ Another File object representing the file path
 
 
-This program will display all the contents of a given file on the console .
+# This program will display all the contents of a given file on the console .
 ```
 import java.io.*; 
 public class ReadFileExample
@@ -40,4 +40,27 @@ public class ReadFileExample
  }
  }
  ```
- 
+# Java program to write the contents into a file :
+```
+import java.io.*;
+class FileWriterDemo
+{ 
+    public static void main(String[] args) throws IOException 
+    { 
+        
+        
+        try{
+           File file = new File("C:\\Users\\sharp\\Desktop\\out.txt"); //file being created if it does not exist.     
+           FileWriter fw=new FileWriter(file); 
+           fw.write("Content to be written"); 
+           fw.close(); 
+		   System.out.println("File written"); 
+		   }
+		   catch(Exception ex)
+		   {
+		   System.out.println("Exception is"+ex);
+		   }
+		   
+    } 
+    ```
+}
