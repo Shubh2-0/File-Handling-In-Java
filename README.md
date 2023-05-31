@@ -51,7 +51,9 @@ public class ReadFileExample
  }
  }
  ```
+ 
 # Java program to write the contents into a file :
+
 ```
 import java.io.*;
 class FileWriterDemo
@@ -75,7 +77,7 @@ class FileWriterDemo
     } 
     ```
 }
-
+```
 ## Contents
 
 The repository includes the following file handling concepts:
